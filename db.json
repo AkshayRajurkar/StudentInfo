@@ -1,7 +1,7 @@
 {
 "profile":
 [
-{
+
 {"RollNo":"1","Class":"3u1","Name":"Aarati","City":"Tiosa","College":"SSGMCE","Stream":"EXTC"},
 {"RollNo":"2","Class":"3u2","Name":"Sakshi","City":"Khamgaon","College":"SSGMCE","Stream":"EXTC"},
 {"RollNo":"3","Class":"4u2","Name":"Yash","City":"Yavatmal","College":"SSGMCE","Stream":"CSE"},
@@ -15,6 +15,6 @@
 {"RollNo":"11","Class":"3u2","Name":"Manya","City":"Akola","College":"SSGMCE","Stream":"Civil"},
 {"RollNo":"12","Class":"3u1","Name":"Archi","City":"Khamgaon","College":"SSGMCE","Stream":"CSE"},
 {"RollNo":"13","Class":"3s","Name":"kittu","City":"Tiosa","College":"SSGMCE","Stream":"Mech"}
-}
+
 ]
 }
